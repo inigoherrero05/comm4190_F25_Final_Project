@@ -1,1 +1,1 @@
-
+This folder contains the initial pitches of multiple project ideas. Each member put forth an original pitch, and after discussion we decided to move forward with _HeyRoommate_, which can be found in file **praachi_idea.ipynb**.
