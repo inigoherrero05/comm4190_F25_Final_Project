@@ -1,1 +1,1 @@
-
+This folder contains the prompt development and testing of the usage scenarios. Each member tested both of their previously developed usage scenarios. Detailed and structured prompts were developed for each usage scenario, with the process of prompt refinements and adjustments shown witin the files. As well, adversarial inputs were tested with the developed prompts.
