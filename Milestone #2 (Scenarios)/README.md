@@ -1,1 +1,0 @@
-This folder contains usage scenarios of _HeyRoommate_. Team members developed two scenarios each. In each file, each scenario includes a short description of the scenario, narrative of scenario, step by step break down of the interaction, description of necessary data, and evaluation possibilities when moving forward to testing.
