@@ -1,4 +1,5 @@
 # HeyRoommate - Communicate Better
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/63ebadbb-f303-4be1-a1cc-4401b225b31d" />
 *Team members (alphabetical order by last name): Praachi Chakraborty, Íñigo Herrero Gómez-Lavín, Suya Que*
 
 For this project, we as a team developed an application of an LLM (or LLMs) to a particular task or domain. Our application is called _HeyRoommate_.
