@@ -1,5 +1,5 @@
 # HeyRoommate - Communicate Better
-Team members (alphabetical order by last name): Praachi Chakraborty, Íñigo Herrero Gómez-Lavín, Suya Que
+*Team members (alphabetical order by last name): Praachi Chakraborty, Íñigo Herrero Gómez-Lavín, Suya Que*
 
 For this project, we as a team developed an application of an LLM (or LLMs) to a particular task or domain. Our application is called _HeyRoommate_.
 
