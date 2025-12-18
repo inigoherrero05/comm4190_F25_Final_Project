@@ -1,4 +1,4 @@
-# comm4190_F25_Final_Project
+# HeyRoommate - Communicate Better
 Final Group Project for COMM 4190 (Fall)
 
 For this project, we as a team are developing an application of an LLM (or LLMs) to a particular task or domain. Our application is called _HeyRoommate_.
