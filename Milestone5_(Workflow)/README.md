@@ -1,1 +1,1 @@
-This folder contains the overall HeyRoommate application workflow (workflow.md) as well as implementation and testing of our workflow. 
+This folder contains the overall HeyRoommate application workflow (workflow.md), a specific scenario workflow (situation_workflow.md), and implementation and testing of our workflow through two different scenarios.  
